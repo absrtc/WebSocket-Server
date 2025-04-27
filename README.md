@@ -15,4 +15,4 @@ Run the following code in a command prompt.
 bun .
 ```
 
-Created by @axis.s on Discord.
+Created by **@axis.s** on Discord.
